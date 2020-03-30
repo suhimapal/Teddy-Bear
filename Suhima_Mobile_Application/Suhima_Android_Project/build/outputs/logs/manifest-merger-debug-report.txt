@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:design:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\640f64c56e14030357e48de08b959da0\design-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\3bfc73cbfe4dd381e5b7ce6b9eeb75d1\appcompat-v7-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\5de5b890e633f0574a1780302242ca7b\recyclerview-v7-23.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\89f12658fe3c26d0fe2bd78d3ab1c90a\support-v4-23.1.1\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:3:5-61
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:5:5-53:19
+MERGED from [com.android.support:design:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\640f64c56e14030357e48de08b959da0\design-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\640f64c56e14030357e48de08b959da0\design-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\3bfc73cbfe4dd381e5b7ce6b9eeb75d1\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\3bfc73cbfe4dd381e5b7ce6b9eeb75d1\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\89f12658fe3c26d0fe2bd78d3ab1c90a\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\89f12658fe3c26d0fe2bd78d3ab1c90a\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.scientificcalculator.calculatorapp.MainActivity
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.scientificcalculator.calculatorapp.StandardCal
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:21:9-24:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:23:13-64
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:22:13-40
+activity#com.example.scientificcalculator.calculatorapp.ScientificCal
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:27:13-66
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:26:13-42
+activity#com.example.scientificcalculator.calculatorapp.UnitCoverter
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:31:13-65
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:30:13-41
+activity#com.example.scientificcalculator.calculatorapp.UnitArea
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:35:13-61
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:34:13-37
+activity#com.example.scientificcalculator.calculatorapp.UnitLength
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:39:13-63
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:38:13-39
+activity#com.example.scientificcalculator.calculatorapp.UnitWeight
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:43:13-63
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:42:13-39
+activity#com.example.scientificcalculator.calculatorapp.UnitTemperature
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:47:13-68
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:46:13-44
+activity#com.example.scientificcalculator.calculatorapp.History
+ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:49:9-52:68
+	android:label
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:51:13-59
+	android:theme
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:50:13-36
+uses-sdk
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\640f64c56e14030357e48de08b959da0\design-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\640f64c56e14030357e48de08b959da0\design-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\3bfc73cbfe4dd381e5b7ce6b9eeb75d1\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\3bfc73cbfe4dd381e5b7ce6b9eeb75d1\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\5de5b890e633f0574a1780302242ca7b\recyclerview-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\5de5b890e633f0574a1780302242ca7b\recyclerview-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\89f12658fe3c26d0fe2bd78d3ab1c90a\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Sayantan Ghosh\.gradle\caches\transforms-2\files-2.1\89f12658fe3c26d0fe2bd78d3ab1c90a\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
