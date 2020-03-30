@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.scientificcalculator.calculatorapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="23" />
+9-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:5:5-53:19
+12        android:allowBackup="true"
+12-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:8:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:9:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:10:9-40
+19        <activity
+19-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:11:9-20:20
+20            android:name="com.example.scientificcalculator.calculatorapp.MainActivity"
+20-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:12:13-41
+21            android:label="@string/app_name"
+21-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:13:13-45
+22            android:theme="@style/AppTheme.NoActionBar" >
+22-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:14:13-56
+23            <intent-filter>
+23-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:16:17-69
+24-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:18:17-77
+26-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:21:9-24:59
+30            android:name="com.example.scientificcalculator.calculatorapp.StandardCal"
+30-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:22:13-40
+31            android:label="@string/title_activity_standard_cal"
+31-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:23:13-64
+32            android:theme="@style/AppTheme.NoActionBar" />
+32-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:24:13-56
+33        <activity
+33-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:25:9-28:59
+34            android:name="com.example.scientificcalculator.calculatorapp.ScientificCal"
+34-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:26:13-42
+35            android:label="@string/title_activity_scientific_cal"
+35-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:27:13-66
+36            android:theme="@style/AppTheme.NoActionBar" />
+36-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:28:13-56
+37        <activity
+37-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:29:9-32:59
+38            android:name="com.example.scientificcalculator.calculatorapp.UnitCoverter"
+38-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:30:13-41
+39            android:label="@string/title_activity_unit_coverter"
+39-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:31:13-65
+40            android:theme="@style/AppTheme.NoActionBar" />
+40-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:32:13-56
+41        <activity
+41-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:33:9-36:59
+42            android:name="com.example.scientificcalculator.calculatorapp.UnitArea"
+42-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:34:13-37
+43            android:label="@string/title_activity_unit_area"
+43-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:35:13-61
+44            android:theme="@style/AppTheme.NoActionBar" />
+44-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:36:13-56
+45        <activity
+45-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:37:9-40:59
+46            android:name="com.example.scientificcalculator.calculatorapp.UnitLength"
+46-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:38:13-39
+47            android:label="@string/title_activity_unit_length"
+47-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:39:13-63
+48            android:theme="@style/AppTheme.NoActionBar" />
+48-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:40:13-56
+49        <activity
+49-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:41:9-44:59
+50            android:name="com.example.scientificcalculator.calculatorapp.UnitWeight"
+50-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:42:13-39
+51            android:label="@string/title_activity_unit_weight"
+51-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:43:13-63
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:44:13-56
+53        <activity
+53-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:45:9-48:59
+54            android:name="com.example.scientificcalculator.calculatorapp.UnitTemperature"
+54-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:46:13-44
+55            android:label="@string/title_activity_unit_temperature"
+55-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:47:13-68
+56            android:theme="@style/AppTheme.NoActionBar" />
+56-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:48:13-56
+57        <activity
+57-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:49:9-52:68
+58            android:name="com.example.scientificcalculator.calculatorapp.History"
+58-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:50:13-36
+59            android:label="@string/title_activity_history"
+59-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:51:13-59
+60            android:theme="@style/AppTheme.NoActionBar" />
+60-->C:\Users\Sayantan Ghosh\Desktop\Suhima_Mobile_Application\Suhima_Android_Project\src\main\AndroidManifest.xml:52:13-56
+61    </application>
+62
+63</manifest>
